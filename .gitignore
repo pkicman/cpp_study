@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.project
+/min_cut/*.cproject
+*.cproject
